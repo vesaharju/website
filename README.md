@@ -1,1 +1,1 @@
-# mywebsite
+What a web site!
